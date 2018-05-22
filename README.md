@@ -4,3 +4,6 @@
 
 
 # tips_for_python
+
+# PIL download
+https://pillow.readthedocs.io/en/5.1.x/installation.html
