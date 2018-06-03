@@ -1,9 +1,5 @@
-# 关于python及其常用modules的使用
+# 关于python及其常用modules
 -----------------------------
-
-
-
-# tips_for_python
 
 # PIL download
 https://pillow.readthedocs.io/en/5.1.x/installation.html
